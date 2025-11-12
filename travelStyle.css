@@ -1,0 +1,99 @@
+html{
+    background-color: whitesmoke;
+}
+
+header{
+    background-color: rgb(175, 147, 109);
+    padding: 10px;
+    border-radius: 20px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+nav{
+    text-align: center;
+    background-color: rgb(206, 182, 152);
+    text-decoration: none;
+    word-spacing: 5px;
+    padding: 5px;
+    margin: 10px;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 10px;
+}
+
+nav a {
+    color: black;
+    text-decoration: none;
+}
+
+nav a:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+main{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+main #home{
+    padding: 10px;
+    border: solid 5px;
+    border-color:  rgb(146, 106, 31);
+    border-radius: 20px;
+    background-color: blanchedalmond;
+}
+
+main #attractions{
+    padding: 10px;
+    margin-top: 20px;
+    border: solid 5px;
+    border-color:  rgb(146, 106, 31);
+    border-radius: 20px;
+    background-color: blanchedalmond;
+}
+
+img{
+    margin-bottom: 10px;
+    width: 600px;
+    height: 300px;
+    display: block;
+    margin: 0 auto;
+}
+
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+li{
+    margin-top: 5px;
+    font-size: larger;
+}
+
+ul{
+    list-style: none;
+}
+
+main #food{
+    padding: 10px;
+    margin-top: 20px;
+    border: solid 5px;
+    border-color:  rgb(146, 106, 31);
+    border-radius: 20px;
+    background-color: blanchedalmond;
+}
+
+main #contact{
+    padding: 10px;
+    margin-top: 20px;
+    border: solid 5px;
+    border-color:  rgb(146, 106, 31);
+    border-radius: 20px;
+    background-color: blanchedalmond;
+}
+
+footer{
+    background-color: rgb(175, 147, 109);
+    padding: 5px;
+    margin-top: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
